@@ -1,0 +1,23 @@
+font-family: 'Source Code Pro', monospace;
+
+color:
+blue: #008ed6
+gray: #999999
+light gray: #444348
+dark gray: #15141a
+black: #1a1a1a
+deep black: #15141a
+
+
+		ex-sm			sm	md
+16		15 				16
+18		15 				16
+24/22	20 				20
+26		22 				22
+30		24 				25
+35		25 				26
+48 		25 				30
+65		30        		40
+60		25 				35
+100		50 				50
+120		50 				60
